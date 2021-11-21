@@ -1,6 +1,6 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasoudRabiee&count_private=true&show_icons=true&theme=dracula&bg_color=DEG,2C5364,203A43,0F2027)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasoudRabiee&layout=compact&theme=dracula&bg_color=DEG,16222A,3A6073)](https://github.com/MasoudRabiee/github-readme-stats)
+![MasoudR's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasoudRabiee&count_private=true&show_icons=true&theme=dracula&bg_color=DEG,2C5364,203A43,0F2027)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasoudRabiee&layout=compact&card_width=250&theme=dracula&bg_color=DEG,16222A,3A6073)](https://github.com/MasoudRabiee/github-readme-stats)
 
 
 
