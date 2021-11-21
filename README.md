@@ -2,6 +2,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasoudRabiee&show_icons=true&theme=dracula)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasoudRabiee&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+
 
 
 
