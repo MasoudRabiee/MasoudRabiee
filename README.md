@@ -1,5 +1,5 @@
-# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Masoud Rabiee And
+# Hello! 
+My name is Masoud And
 I’m currently learning ... 😉🤕
 
 
